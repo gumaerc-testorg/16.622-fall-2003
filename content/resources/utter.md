@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 086515f7-604e-5152-48f4-9912745f7345
 resourcetype: Document
 title: utter.pdf
 uid: 2a692e49-8cbb-a4ab-7c30-736776488750

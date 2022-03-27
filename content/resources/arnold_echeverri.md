@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 086515f7-604e-5152-48f4-9912745f7345
 resourcetype: Document
 title: arnold_echeverri.pdf
 uid: 5af4c223-d0aa-8de5-1c61-3e28047fb599

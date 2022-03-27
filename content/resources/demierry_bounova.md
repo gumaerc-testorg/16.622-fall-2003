@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 086515f7-604e-5152-48f4-9912745f7345
 resourcetype: Document
 title: demierry_bounova.pdf
 uid: 12dfa0fb-b3a5-bf25-0633-a5a6fda1a437
