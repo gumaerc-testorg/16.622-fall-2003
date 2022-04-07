@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Course Pedagogy
 uid: 8791b9e9-fbff-97a4-9b01-11c893c7ccb7
 ---
