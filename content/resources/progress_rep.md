@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-622-experimental-projects-ii-fall-2003/b02c4123315b80da5032b5af29b8b693_progress_rep.pdf
+file: /courses/16-622-experimental-projects-ii-fall-2003/b02c4123315b80da5032b5af29b8b693_progress_rep.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

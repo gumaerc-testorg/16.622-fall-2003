@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-622-experimental-projects-ii-fall-2003/45f50421c090cab76135960691bb0fd1_demierry.pdf
+file: /courses/16-622-experimental-projects-ii-fall-2003/45f50421c090cab76135960691bb0fd1_demierry.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

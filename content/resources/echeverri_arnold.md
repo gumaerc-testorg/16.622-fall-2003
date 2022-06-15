@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-622-experimental-projects-ii-fall-2003/c8711d590e9c8c57422055ec8ec672e9_echeverri_arnold.pdf
+file: /courses/16-622-experimental-projects-ii-fall-2003/c8711d590e9c8c57422055ec8ec672e9_echeverri_arnold.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
