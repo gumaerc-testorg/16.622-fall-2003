@@ -5,6 +5,7 @@ file: /courses/16-622-experimental-projects-ii-fall-2003/cd62234d5f8d5c1f0e5dfd5
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mccoy_and_utter.pdf
 uid: cd62234d-5f8d-5c1f-0e5d-fd56dcc81d05
 ---
 This file includes final reports by Kathleen McCoy and Darlene Utter.
-
