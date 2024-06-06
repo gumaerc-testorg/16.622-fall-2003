@@ -2,6 +2,7 @@
 content_type: resource
 description: This file includes design proposals by Darlene Utter.
 file: /courses/16-622-experimental-projects-ii-fall-2003/2a692e498cbba4ab7c30736776488750_utter.pdf
+file_size: 823911
 file_type: application/pdf
 learning_resource_types:
 - Projects

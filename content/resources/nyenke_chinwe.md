@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-622-experimental-projects-ii-fall-2003/8f950cb34e4a44d48afed7528f521d9a_nyenke_chinwe.pdf
+file_size: 429082
 file_type: application/pdf
 learning_resource_types:
 - Projects
