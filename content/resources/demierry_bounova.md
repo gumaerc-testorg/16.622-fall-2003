@@ -3,6 +3,7 @@ content_type: resource
 description: This file includes design proposals by Gergana Bounova and Timoth?ee
   de Mierry.
 file: /courses/16-622-experimental-projects-ii-fall-2003/12dfa0fbb3a5bf250633a5a6fda1a437_demierry_bounova.pdf
+file_size: 2795520
 file_type: application/pdf
 learning_resource_types:
 - Projects
