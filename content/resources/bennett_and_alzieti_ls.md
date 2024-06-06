@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-622-experimental-projects-ii-fall-2003/a645ba6857afaea1091fe64d9e1e0d7a_Bennett_and_Alzieti_LS.pdf
+file_size: 794523
 file_type: application/pdf
 learning_resource_types:
 - Projects
