@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-622-experimental-projects-ii-fall-2003/9f487dc352775245530cfbf67b3f7e74_arnold.pdf
+file: /ol-ocw-studio-app/courses/16-622-experimental-projects-ii-fall-2003/9f487dc352775245530cfbf67b3f7e74_arnold.pdf
 file_size: 773957
 file_type: application/pdf
 learning_resource_types:
