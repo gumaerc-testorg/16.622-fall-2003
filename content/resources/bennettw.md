@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-622-experimental-projects-ii-fall-2003/284f07cdb164b9227ae9e82e30c46a3c_bennettw.pdf
+file: /ol-ocw-studio-app/courses/16-622-experimental-projects-ii-fall-2003/284f07cdb164b9227ae9e82e30c46a3c_bennettw.pdf
 file_size: 887393
 file_type: application/pdf
 learning_resource_types:
