@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-622-experimental-projects-ii-fall-2003/3e619cca0f736525625bb92c2843d439_echeverri.pdf
+file: /ol-ocw-studio-app/courses/16-622-experimental-projects-ii-fall-2003/3e619cca0f736525625bb92c2843d439_echeverri.pdf
 file_size: 624860
 file_type: application/pdf
 learning_resource_types:
