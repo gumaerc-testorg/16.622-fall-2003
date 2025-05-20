@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes final presentations by Gergana Bounova and Timoth?ee
   de Mierry.
-file: /ol-ocw-studio-app/courses/16-622-experimental-projects-ii-fall-2003/3c733c60b6d7123fc6efa333280a34ef_bounova_demierry.pdf
+file: /courses/16-622-experimental-projects-ii-fall-2003/3c733c60b6d7123fc6efa333280a34ef_bounova_demierry.pdf
 file_size: 652245
 file_type: application/pdf
 learning_resource_types:
