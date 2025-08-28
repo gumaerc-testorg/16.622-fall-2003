@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file includes final reports by Kathleen McCoy and Darlene Utter.
-file: /courses/16-622-experimental-projects-ii-fall-2003/cd62234d5f8d5c1f0e5dfd56dcc81d05_mccoy_and_utter.pdf
+file: /ol-ocw-studio-app/courses/16-622-experimental-projects-ii-fall-2003/cd62234d5f8d5c1f0e5dfd56dcc81d05_mccoy_and_utter.pdf
 file_size: 798374
 file_type: application/pdf
 learning_resource_types:
