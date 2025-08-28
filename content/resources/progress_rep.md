@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-622-experimental-projects-ii-fall-2003/b02c4123315b80da5032b5af29b8b693_progress_rep.pdf
+file: /ol-ocw-studio-app/courses/16-622-experimental-projects-ii-fall-2003/b02c4123315b80da5032b5af29b8b693_progress_rep.pdf
 file_size: 29181
 file_type: application/pdf
 learning_resource_types:
