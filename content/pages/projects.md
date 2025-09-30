@@ -38,7 +38,7 @@ Bennett, Fall 2002 ({{% resource_link 284f07cd-b164-b922-7ae9-e82e30c46a3c "PDF"
 {{< tdclose >}}
 {{< tdopen >}}
 Spring 2003  
-Presentation Video ([MP4 - 29 MB](https://archive.org/download/MIT16.662F03/mit16622abPresMay03-220k.mp4))  
+Presentation Video ({{% resource_link "8e3a5cbb-789d-403f-9655-0e064694dd96" "MP4 - 29 MB" %}})  
   
 Accompanying Slides ({{% resource_link a645ba68-57af-aea1-091f-e64d9e1e0d7a "PDF" %}}) Courtesy of Stefano Alziati and Warren Bennett.
 {{< tdclose >}}
